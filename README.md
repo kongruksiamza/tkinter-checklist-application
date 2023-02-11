@@ -1,1 +1,1 @@
-# tkinter-checklist-application
+# โปรแกรมจัดการงาน
